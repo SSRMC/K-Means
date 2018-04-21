@@ -6,8 +6,8 @@
 ##########################
 
 #k=3 # the number of K
-max=5000 # the maximumm number for generating randome points
-n=100 # the number of points
+max = 5000 # the maximumm number for generating randome points
+n = 100 # the number of points
 maxIter = 10 # maximum number of iterations
 threshold = 0.1 #difference of old means and new means
 
