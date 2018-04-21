@@ -1,5 +1,4 @@
-# K-Means algorithm by Mehdi Mohammadi
-# Wenstern Michigan University
+## ORIGINALLY FROM: K-Means algorithm by Mehdi Mohammadi (Western Michigan University)
 
 ##########################
 # The yellow asteriks are the final means. The initial means are depicted by
